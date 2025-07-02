@@ -1,0 +1,6 @@
+# In backend project folder
+git init
+git remote add origin https://github.com/solobaba247/harmonycraft-backend.git
+git add .
+git commit -m "Initial backend commit"
+git push -u origin master
